@@ -209,7 +209,8 @@ Ru:
 
 Установка:
 (Под Root!)
-1. ./install.sh
+1. Рекомендуется использовать python 2.7.18 (установка на kali: https://www.kali.org/docs/general-use/using-eol-python-versions/)
+2. ./install.sh
 
 Использование:
 (Под Root!)
