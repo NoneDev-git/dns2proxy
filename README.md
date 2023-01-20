@@ -205,3 +205,12 @@ resolv.conf: DNS server to forward the queries.
 >Ex:
 >nameserver 8.8.8.8
 
+Ru:
+
+Установка:
+(Под Root!)
+1. ./install.sh
+
+Использование:
+(Под Root!)
+1. python dns2proxy.py
